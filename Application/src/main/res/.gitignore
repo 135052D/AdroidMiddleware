@@ -1,0 +1,17 @@
+bin
+build
+out
+.gradle
+.sonar
+.settings
+.classpath
+.project
+coverage
+*.iml
+*.ipr
+*.iws
+.idea
+classes
+*.log
+/node_modules
+package-lock.json
